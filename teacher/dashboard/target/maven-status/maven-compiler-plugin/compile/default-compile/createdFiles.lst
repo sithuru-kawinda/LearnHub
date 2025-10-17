@@ -1,0 +1,8 @@
+com\lms\dashboard\DashboardApplication.class
+com\lms\dashboard\repository\CourseRepository.class
+com\lms\dashboard\dto\DashboardResponse$CourseSummary.class
+com\lms\dashboard\dto\DashboardResponse.class
+com\lms\dashboard\service\DashboardService.class
+com\lms\dashboard\controller\DashboardController.class
+com\lms\dashboard\model\Course.class
+com\lms\dashboard\dto\DashboardResponse$TeacherSummary.class
